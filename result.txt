@@ -1,0 +1,14 @@
+no dilate
+no erode
+
+
+1: detect sót (1), đáp án (X)
+2: ok
+3: detect sót (8, 1), đáp án (X, X)
+4: detect sót (1), đáp án (X)
+5: ok
+6: detect sót (1), đáp án (O)
+7: detect sót (1), đáp án (X)
+8: ok
+9: detect sai nhiều
+10: detect sai nhiều
